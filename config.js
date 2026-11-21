@@ -1,10 +1,10 @@
 window.CARD_CONFIG = {
-  "url": "https://colbyadams.com/",
-  "name": "Colby Adams",
-  "initials": "CA",
-  "title": "Technical Director",
-  "org": "Stockbridge Theatre",
-  "footer": "COLBYADAMS.COM",
+  "url": "https://mingyangz1115-lgtm.github.io/Digital-Business-Card/",
+  "name": "明洋",
+  "initials": "赵",
+  "title": "Student",
+  "org": "洛阳职业技术学院",
+  "footer": "",
   "theme": {
     "accent": "#14b8a6",
     "accent2": "#5eead4",
@@ -12,9 +12,9 @@ window.CARD_CONFIG = {
   },
   "phones": [
     {
-      "label": "Cell",
-      "value": "(603) 548-5547",
-      "dial": "+16035485547",
+      "label": "REDMI",
+      "value": "18236345424",
+      "dial": "+8618236345424",
       "primary": true
     },
     {
@@ -27,14 +27,14 @@ window.CARD_CONFIG = {
   "emails": [
     {
       "label": "Email",
-      "value": "coadams@pinkertonacademy.org"
+      "value": "mingyangz1115@gmail.com"
     }
   ],
   "links": [
     {
-      "label": "Stockbridge Website",
-      "value": "stockbridgetheatre.com",
-      "url": "https://stockbridgetheatre.com",
+      "label": "GitHub",
+      "value": "github.com/mingyangz1115",
+      "url": "https://https://github.com/mingyangz1115",
       "icon": "globe"
     },
     {
